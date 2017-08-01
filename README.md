@@ -1,1 +1,1 @@
-# AutolayoutTest 附带autolayout.aar
+AutolayoutTest 附带autolayout.aar
